@@ -1,0 +1,19 @@
+[
+    {
+        "id": 1,
+        "name": "Code Quiz",
+        "image": "https://github.com/olacase",
+        "github": "https://github.com/olacase/code-quiz",
+        "deploy": "https://olacase.github.io/code-quiz/",
+        "topics": "HTML, CSS, JavaScript, DOM"
+    },
+    {
+        "id": 2,
+        "name": "Note Taker",
+        "image": "https://github.com/olacase",
+        "github": "https://github.com/olacase/note-taker",
+        "deploy": "https://mighty-castle-08838.herokuapp.com/",
+        "topics": "node, express"
+    }
+    
+]
