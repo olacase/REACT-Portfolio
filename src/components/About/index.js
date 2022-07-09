@@ -11,7 +11,7 @@ function About() {
                 <img class="mb-5" id="avatar" src={AboutImage} alt="Olamide Bello" />
 
                 <p>
-                I'm an early-career software engineer with a background in Computer Science. I'm eager to blend my systems support experience with my web development skills to enhance user inter-interactivity. 
+                I'm an early career software engineer with a background in Computer Science. I'm eager to blend my systems support experience with my web development skills to enhance user inter-interactivity. 
                 I am all about creativity, collaboration, and learning new things.
                 </p>
                 <p>
@@ -24,11 +24,7 @@ function About() {
                 Building skills to provide solutions for business improvement.
                 </p>
             </div>
-            <div>
-                <p>
-                    this is  a test script
-                </p>
-            </div>
+            
         </section>
     )
 }
